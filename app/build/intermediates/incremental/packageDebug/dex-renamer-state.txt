@@ -1,0 +1,7 @@
+#Tue Sep 19 06:37:17 PDT 2017
+base.0=C\:\\Users\\SamB64\\AndroidStudioProjects\\WriteObjecttoFile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_376270570344ca68a21884eed8202b3aa2c8ff8a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\SamB64\\AndroidStudioProjects\\WriteObjecttoFile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_55d9504ca4c226df1df70446b004fc35ed53d9ca\\classes.dex
+base.1=C\:\\Users\\SamB64\\AndroidStudioProjects\\WriteObjecttoFile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_55d9504ca4c226df1df70446b004fc35ed53d9ca
+file.0=C\:\\Users\\SamB64\\AndroidStudioProjects\\WriteObjecttoFile\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_376270570344ca68a21884eed8202b3aa2c8ff8a\\classes.dex
